@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ospom	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+success	KEYWORD2
+fail	KEYWORD2
+clearTheString	KEYWORD2
+groupCommand	KEYWORD2
+sensorCommand	KEYWORD2
+actuatorCommand	KEYWORD2
+groupCommandVal	KEYWORD2
+sendGroupID	KEYWORD2
+sendSensorData	KEYWORD2
+sendDataStream	KEYWORD2
+sendActuatorData	KEYWORD2
+activateWatchdog	KEYWORD2
+setGroupID	KEYWORD2
+readSensors	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
